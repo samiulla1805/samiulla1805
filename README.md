@@ -7,7 +7,7 @@
 
 ### 🚀 What I'm Focused On
 - 🔭 **Current Focus:** Data Structures & Algorithms, Full-Stack Development
-- 📚 **Academics:** CSE coursework at GCEM (Computer Networks, OS, System Design)
+- 📚 **Academics:** CSE coursework at GCEM ( OS, System Design)
 - 🎯 **Goals:** Cracking software engineering internships & contributing to open source
 
 ---
